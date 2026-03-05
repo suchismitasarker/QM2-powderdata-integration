@@ -1,6 +1,6 @@
-## 1. Accessing the Environment
-You can run the integration either from a terminal on lnx201/lnx312 or from JupyterHub.
+## Accessing the Environment
 
+You can run the integration either from a terminal on lnx201/lnx312 or from JupyterHub.
 Activate the base Conda installation:
 
 ```
