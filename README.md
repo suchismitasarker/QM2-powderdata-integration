@@ -25,7 +25,7 @@ project-root/
 ├── calibration/                  # Detector calibration files
 │   ├── CeO2_46keV.poni           # pyFAI calibration geometry
 │   ├── mask.edf                  # Detector mask (beamstop, bad pixels)
-│   └── README_calibration.md     # Optional: notes on calibration workflow
+│   └── CeO2_46keV.cbf            # Detector image
 │
 ├── raw_data/                     # Raw Pilatus6M diffraction images
 │   ├── sample_000.cbf
