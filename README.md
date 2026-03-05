@@ -43,7 +43,7 @@ project-root/
 ├── scripts/                      # Python processing scripts
 │   ├── QM2_pyfai_full_integrate.py
 │
-├── docs/                         # Documentation, figures, notes
+├── docs/                         # Using the code in the lnx201 clusters
 │   ├── notes.md
 │
 ├── environment.yml               # Conda environment
