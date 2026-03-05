@@ -3,6 +3,7 @@ You can run the integration either from a terminal on lnx201/lnx312 or from Jupy
 
 Activate the base Conda installation:
 
-
+```
 source /nfs/chess/sw/anaconda3_nsj/miniconda/bin/activate
-'''
+
+```
