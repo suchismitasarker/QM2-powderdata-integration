@@ -46,8 +46,5 @@ PONI file path:
 Mask file path (optional, if yes, provide the filename):
 Output folder path:  
 
-
 ```
-
-Output folder path:  
 
