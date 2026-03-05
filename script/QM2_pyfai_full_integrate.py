@@ -1,5 +1,4 @@
 # test script for integrating Pilatus6M images at CHESS beamline ID4B
-# written by Nathan S Johnson 05/16/2023
 # Modified by Suchismita Sarker 03/05/2026
 # Enhanced version: plotting, logging, Q→2θ conversion, caking, mask support
 
