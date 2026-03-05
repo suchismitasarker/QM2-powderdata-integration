@@ -1,8 +1,8 @@
-# QM2 Beamline - PyFAI-Based X‑ray Diffraction Integration Pipeline 
+## QM2 Beamline - PyFAI-Based X‑ray Diffraction Integration Pipeline 
 
 A complete Batch powder data processing workflow for CHESS ID4B Pilatus6M data: calibration, masking, 1D integration, 2D caking, and Q→2θ conversion.
 
-# Overview 
+## Overview 
 This repository contains a Python workflow for processing Pilatus6M diffraction images collected at the CHESS ID4B beamline. It supports:
 
 * Detector calibration using .poni files
@@ -17,7 +17,7 @@ This repository contains a Python workflow for processing Pilatus6M diffraction 
 The workflow is built on pyFAI, fabio, NumPy, Pandas, and Matplotlib.
 
 
-## Repository Structure
+### Repository Structure
 
 ```text
 project-root/
@@ -41,8 +41,7 @@ project-root/
 │   ├── sample_000_cake.npy       # Raw caked matrix
 │
 ├── scripts/                      # Python processing scripts
-│   ├── QM2_pyfai_full_integrate_mask_suchi.py
-│   └── utilities.py              # Optional helper functions
+│   ├── QM2_pyfai_full_integrate.py
 │
 ├── docs/                         # Documentation, figures, notes
 │   ├── workflow_diagram.png
