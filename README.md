@@ -17,10 +17,6 @@ This repository contains a Python workflow for processing Pilatus6M diffraction 
 The workflow is built on pyFAI, fabio, NumPy, Pandas, and Matplotlib.
 
 
-
-
-## Repository Structure
-
 ## Repository Structure
 
 ```text
