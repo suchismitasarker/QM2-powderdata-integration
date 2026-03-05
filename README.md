@@ -44,9 +44,7 @@ project-root/
 │   ├── QM2_pyfai_full_integrate.py
 │
 ├── docs/                         # Documentation, figures, notes
-│   ├── workflow_diagram.png
-│   ├── example_plots/
-│   └── README.md
+│   ├── notes.md
 │
 ├── environment.yml               # Conda environment
 ├── requirements.txt              # Python dependencies
