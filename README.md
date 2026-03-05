@@ -21,7 +21,10 @@ The workflow is built on pyFAI, fabio, NumPy, Pandas, and Matplotlib.
 
 ## Repository Structure
 
-\\\text project-root/
+## Repository Structure
+
+```text
+project-root/
 │
 ├── calibration/                  # Detector calibration files
 │   ├── CeO2_46keV.poni           # pyFAI calibration geometry
@@ -50,6 +53,12 @@ The workflow is built on pyFAI, fabio, NumPy, Pandas, and Matplotlib.
 │   ├── workflow_diagram.png
 │   ├── example_plots/
 │   └── README.md
+│
+├── environment.yml               # Conda environment
+├── requirements.txt              # Python dependencies
+└── README.md                     # Main project documentation
+```
+
 │
 ├── environment.yml               # Conda environment
 ├── requirements.txt              # Python dependencies
