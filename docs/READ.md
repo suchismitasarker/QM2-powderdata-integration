@@ -19,7 +19,7 @@ The workflow is built on pyFAI, fabio, NumPy, Pandas, and Matplotlib.
 
 ### Repository Structure
 
-```text
+```
 project-root/
 │
 ├── calibration/                  # Detector calibration files
